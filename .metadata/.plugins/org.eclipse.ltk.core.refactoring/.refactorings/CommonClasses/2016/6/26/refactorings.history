@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;common.CommandAndData.clientID&apos; in &apos;common.CommandAndData&apos;&#x0D;&#x0A;- Original project: &apos;CommonClasses&apos;&#x0D;&#x0A;- Original element: &apos;common.CommandAndData.clientID&apos;&#x0D;&#x0A;- Getter method name: &apos;getClientID&apos;&#x0D;&#x0A;- Setter method name: &apos;setClientID&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;clientID&apos;" flags="589830" getter="getClientID" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;common{CommandAndData.java[CommandAndData^clientID" insertion="7" setter="setClientID" stamp="1466419066518" version="1.0" visibility="1"/>
+</session>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Common.Solution"/>
+<fullyQualifiedTypeName name="Common.Exercise"/>
+<fullyQualifiedTypeName name="java.net.Socket"/>
+<fullyQualifiedTypeName name="java.net.ServerSocket"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="algorithms.search.Solution"/>
+<fullyQualifiedTypeName name="serverView.CommandAndData"/>
+<fullyQualifiedTypeName name="serverModel.MyModel"/>
+<fullyQualifiedTypeName name="serverPresenter.Properties"/>
+<fullyQualifiedTypeName name="serverView.MyClientHandler"/>
+<fullyQualifiedTypeName name="serverPresenter.Presenter"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="common.CommandAndData"/>
+<fullyQualifiedTypeName name="serverView.MyServerView"/>
+<fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Semaphore"/>
+<fullyQualifiedTypeName name="java.util.zip.DeflaterOutputStream"/>
+<fullyQualifiedTypeName name="java.util.zip.DeflaterInputStream"/>
+<fullyQualifiedTypeName name="java.util.zip.GZIPInputStream"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayOutputStream"/>
+<fullyQualifiedTypeName name="java.io.ByteArrayInputStream"/>
+<fullyQualifiedTypeName name="java.util.Observer"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.layout.GridLayout"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.Button"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.SWT"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.layout.GridData"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.Text"/>
+<fullyQualifiedTypeName name="serverView.ServerGUISynchronizator"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="serverView.View"/>
+<fullyQualifiedTypeName name="serverModel.Model"/>
+<fullyQualifiedTypeName name="serverView.MyTCPIPServer"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="serverView.ServerWindow"/>
+</qualifiedTypeNameHistroy>
